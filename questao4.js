@@ -24,14 +24,14 @@ class Student{
     }
 }
 
-//Creating classes
+
 student1 = new Student("Beatriz","Gomes",10 ,8);
 student2 = new Student("Guilherme","Bonato", 9,6);
 student3 = new Student("Priscila","Silva",3 ,5);
 student4 = new Student("Mariana","Alves", 4,10);
 student5 = new Student("Bruno","Bonatti",7 ,3);
 
-//Array of students
+
 var studentsArray = [
     student1,
     student2,
@@ -41,7 +41,7 @@ var studentsArray = [
 ];
 
 
-//Iteração
+
 studentsArray.forEach(show);
 
 function show(item){

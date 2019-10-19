@@ -1,6 +1,6 @@
 var name = "Guilherme Santos";
-var firstGrade = 8;
-var secondGrade = 5;
+var firstGrade = 7;
+var secondGrade = 8.5;
 var multFirstGrade = firstGrade * 0.6;
 var multSecondGrade = secondGrade * 0.4;
 var finalGrade = multFirstGrade + multSecondGrade;
